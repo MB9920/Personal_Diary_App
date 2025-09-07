@@ -1,1 +1,1 @@
-# Personal_Dairy_App
+# Personal_Diary_App
